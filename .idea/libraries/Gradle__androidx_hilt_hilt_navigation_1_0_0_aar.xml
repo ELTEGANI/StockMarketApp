@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.hilt:hilt-navigation:1.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/417d71de45a4d35e66fcc6b4ced39626/transformed/hilt-navigation-1.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/417d71de45a4d35e66fcc6b4ced39626/transformed/hilt-navigation-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/417d71de45a4d35e66fcc6b4ced39626/transformed/hilt-navigation-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/02cfae672089e43584f0bc2821595019/transformed/hilt-navigation-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/02cfae672089e43584f0bc2821595019/transformed/hilt-navigation-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/02cfae672089e43584f0bc2821595019/transformed/hilt-navigation-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
